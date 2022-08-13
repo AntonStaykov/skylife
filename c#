@@ -5,13 +5,13 @@ int test = int.Parse(Console.ReadLine());
 switch (test)
 {
     case 1:
-        Console.WriteLine("fu");
+        Console.WriteLine("Successful Test ");
         break;
 
     default:
         while (test <=5)
 
-        Console.WriteLine("faaaaacccccckkkkk");
+        Console.WriteLine("Error");
 
         break;
 
